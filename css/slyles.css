@@ -1,0 +1,18 @@
+.timer {
+  width: min-content;
+  display: grid;
+  grid-template-columns: min-content min-content min-content min-content;
+  grid-column-gap: 40px;
+  font-size: 50px;
+  margin-left: 100px;
+  margin-top: 20px;
+  border: 2px solid red;
+  padding: 25px;
+}
+.field {
+  text-align: center;
+}
+.title {
+  margin-left: 100px;
+  margin-top: 50px;
+}
